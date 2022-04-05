@@ -1,0 +1,25 @@
+Variables: Sirve para nombrar o denominar un valor.
+
+Strings: Es una cadena de texto, siempre deben ir en comillas.
+
+Funciones (argumentos, return): 
+Argumentos o Array(arreglo en inglés)-> un arreglo es una colección de elementos contiguos,
+más bien una estructura que nos permite almacenar secuencialmente datos, no necesariamente en orden.
+¿Qué tipo de datos?, en el caso de Javascript, cualquiera, pero en general se almacenan datos del mismo tipo.
+
+Declaraciones if:
+IF es una estructura de control utilizada para tomar decisiones. Es un condicional que sirve para realizar 
+unas u otras operaciones en función de una expresión. Funciona de la siguiente manera, primero se evalúa 
+una expresión, si da resultado positivo se realizan las acciones relacionadas con el caso positivo.
+
+if (expresión) { 
+   //acciones a realizar en caso positivo 
+   //... 
+} else { 
+   //acciones a realizar en caso negativo 
+   //... 
+}
+
+Valores booleanos (true, false):un booleano tiene 2 posibles valores: true (verdadero) o false (falso).
+En JavaScript, frecuentemente se genera de manera implícita la coerción de tipos a booleano.
+Si, por ejemplo, tienes una sentencia if que evalúa cierta expresión, esa expresión genera coerción a booleano
